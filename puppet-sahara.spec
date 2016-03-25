@@ -14,7 +14,7 @@ Requires:       puppet-sysctl
 Requires:       puppet-keystone
 Requires:       puppet-inifile
 Requires:       puppet-stdlib
-Requires:       puppet-postgresql
+#Requires:       puppet-postgresql
 Requires:       puppet-openstacklib
 Requires:       puppet >= 2.7.0
 
