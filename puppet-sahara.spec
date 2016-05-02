@@ -10,12 +10,13 @@ Source0:        https://github.com/openstack/puppet-sahara/archive/%{version}.ta
 
 BuildArch:      noarch
 
-Requires:       puppet-sysctl
-Requires:       puppet-keystone
 Requires:       puppet-inifile
-Requires:       puppet-stdlib
+Requires:       puppet-keystone
 #Requires:       puppet-postgresql
 Requires:       puppet-openstacklib
+Requires:       puppet-oslo
+Requires:       puppet-stdlib
+Requires:       puppet-sysctl
 Requires:       puppet >= 2.7.0
 
 %description
