@@ -1,7 +1,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-sahara
-Version:        XXX
-Release:        XXX
+Version:        15.4.0
+Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Sahara
 License:        ASL 2.0
 
@@ -48,5 +48,8 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/sahara/
 
 
 %changelog
+* Fri Oct 04 2019 RDO <dev@lists.rdoproject.org> 15.4.0-1
+- Update to 15.4.0
+
 
 
