@@ -52,4 +52,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/sahara/
 - Update to 15.4.0
 
 
-
