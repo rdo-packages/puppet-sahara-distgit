@@ -67,3 +67,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/sahara/
 %changelog
 
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-sahara/commit/f488edc7d014535c06f44468bce567d5b9064a13
