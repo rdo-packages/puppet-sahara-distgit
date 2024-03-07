@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78db2adc_a2047ddc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-03-07T08:12:15Z",
+      "side": 1,
+      "message": "it will be retired soon https://review.rdoproject.org/r/q/topic:inactive-removal",
+      "revId": "a69214653cf216659813d77f4e49daeee92724b5",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    }
+  ]
+}
